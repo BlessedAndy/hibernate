@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/My hibernate-4.2.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/My Junit4.11"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/My log4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQL 5.1.25"/>
+	<classpathentry kind="lib" path="D:/程序安装包/jar包/hibernate/hibernate-release-4.2.5.Final/lib/optional/ehcache/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/程序安装包/jar包/hibernate/hibernate-release-4.2.5.Final/lib/optional/ehcache/hibernate-ehcache-4.2.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/程序安装包/jar包/hibernate/hibernate-release-4.2.5.Final/lib/optional/ehcache/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
